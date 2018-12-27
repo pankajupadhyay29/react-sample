@@ -1,0 +1,11 @@
+.odd .react-grid-Cell {
+  background-color: #E5E5E5;
+}
+
+.even .react-grid-Cell {
+  background-color: #ccc;
+}
+
+.highlight .react-grid-Cell {
+  color: red;
+}

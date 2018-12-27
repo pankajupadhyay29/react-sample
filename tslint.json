@@ -1,0 +1,11 @@
+{
+  "extends": ["tslint:recommended"],
+  "rules": {
+    "quotemark": false,
+    "variable-name": [true, "check-format", "allow-pascal-case"],
+    "trailing-comma": true,
+    "interface-name": false,
+    "member-access": [false],
+    "no-console":false
+  }
+}
